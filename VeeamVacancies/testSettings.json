@@ -1,0 +1,7 @@
+{
+  "TestSettings": {
+    "BrowserType": "chrome",
+    "BrowserOptions": "--start-maximized",
+    "VacancyUrl": "https://cz.careers.veeam.com/vacancies"
+  }
+}
